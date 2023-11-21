@@ -1,9 +1,0 @@
-﻿  Server.cpp
-  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
-  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
-  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
-  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
-E:\VisualStudio\Projects\Server\Server\clientrequesthandler.h(143,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-E:\VisualStudio\Projects\Server\Server\clientrequesthandler.h(144,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-E:\VisualStudio\Projects\Server\Server\connection.h(33): warning C4717: start_connection_handling::connection2::connection2: рекурсия на всех путях выполнения, функция вызовет переполнение стека
-  Server.vcxproj -> E:\VisualStudio\Projects\Server\x64\Debug\Server.exe
